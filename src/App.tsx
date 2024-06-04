@@ -1,7 +1,7 @@
 import {
 	decrement,
-	decrementByValue,
 	increment,
+	decrementByValue,
 	incrementByValue,
 } from "./redux/features/counterSlice";
 import { useAppDispatch, useAppSelector } from "./redux/hooks";
